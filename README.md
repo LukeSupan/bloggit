@@ -1,6 +1,8 @@
-# THE HOLE - BLOG
+# Bloggit - BLOG
 
 ## DESCRIPTION
+Originaly this was named "The Hole" it kinda still is. The name is offputting. If I choose to keep this on my resume I'll rebrand it but I don't really want this project on there, I'd prefer something more unique.
+
 Hole is my username on pretty much everything, that's where the name comes from if you were curious.
 
 It can basically just act as a personal blog. Currently, it just allows posts by admins that can be made, updated, and deleted. Users can just read them.
