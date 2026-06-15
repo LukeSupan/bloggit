@@ -1,18 +1,13 @@
 # Bloggit - BLOG
 
 ## DESCRIPTION
-Originaly this was named "The Hole" it kinda still is. The name is offputting. If I choose to keep this on my resume I'll rebrand it but I don't really want this project on there, I'd prefer something more unique.
+Originally this was named "The Hole"; it essentially still is. The name is offputting. If I choose to keep this on my resume, I'll rebrand it, but I don't really want this project on there; I'd prefer something more unique.
 
 Hole is my username on pretty much everything, that's where the name comes from if you were curious.
 
 It can basically just act as a personal blog. Currently, it just allows posts by admins that can be made, updated, and deleted. Users can just read them.
 
-It isn't hosted anywhere so no one can see any posts, if I expand on it (which I actually do plan on doing, I've always wanted a blog) it will be.
-
-I'd like to add a sorting feature. I'd also probably remove the author section of the posts, but it fits the requirements of the project (one-to-many relationship, admins can create many posts, but each post belongs to one admin).
-I could also keep the author feature and add sorting by author to let my friends post as well after I give them an admin role in the DB. A lot would need to change for me to be comfortable hosting this though, but I may.
-
-## STARTUP GUIDE (GRADER LOOK HERE HI!)
+## STARTUP GUIDE
 1. Unzip everything.
 2. cd into client and server on different terminals
 3. npm install in both to install dependencies
@@ -30,7 +25,7 @@ For the PORT, do whatever PORT you used with VITE_BACKEND_URL (technically, VITE
 
 For JWT_SECRET, put whatever (as in anything you want that works); it doesn't matter, I just used the word whatever. You can generate one if you'd like. I had one for a bit, then lost it and did this.
 
-For MONGO_URI, that is probably what you need to put. Check connection info on your connection and use that though. You set it.
+For MONGO_URI, that is probably what you need to put. Check the connection info on your connection and use that though. You set it.
 
 For DB_NAME, make it whatever the name of the DB you end up using. I used HoleDB
 
